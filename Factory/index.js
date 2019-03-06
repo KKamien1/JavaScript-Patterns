@@ -22,5 +22,10 @@ let LannisterFactory = (function() {
   return LannisterFactory;
 })();
 
-console.log(KingJoffery.prootype, LordTywin, LannisterFactory);
-(() => console.log("---iife---"))();
+
+
+
+
+
+console.log(KingJoffery.prototype, LordTywin, LannisterFactory);
+
